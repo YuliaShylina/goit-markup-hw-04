@@ -416,8 +416,7 @@ img {
   overflow: hidden;
 }
 
-.four-section-cover-wrap,
-.cover-text {
+.four-section-cover-wrap {
   position: absolute;
   display: flex;
   padding: 40px 32px 0 32px;
@@ -428,7 +427,7 @@ img {
   transition: transform 250ms linear;
 }
 
-.cover-text {
+.four-section-cover-wrap {
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
